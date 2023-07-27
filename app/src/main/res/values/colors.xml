@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_app">#EDE5E1</color>
+    <color name="color_hint">#947742</color>
+    <color name="color_button">#6D7035</color>
+    <color name="color_ic_vw">#6E6C0F</color>
+
+    <!-- Colores clase-->
+    <color name="background_app_profe">#7BC4FF</color>
+    <color name="background_card_profe">#003B94</color>
+    <color name="primary">#F7E652</color>
+    <color name="button">#E0B226</color>
+
+    <color name="approval_background">#02D002</color>
+    <color name="approval_text">#015401</color>
+
+
+    <color name="warning_background">#FCE61E</color>
+    <color name="warning_text">#907F00</color>
+
+    <color name="Error_background">#FF4A4A</color>
+    <color name="Error_text">#900000</color>
+
+    <color name="Info_background">#4A83FF</color>
+    <color name="Info_text">#001390</color>
+
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IU_Android</string>
+    <string name="descrip_ic_vw">Icon de la vista central</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+
+    <!-- Profe-->
+    <string name="username">Username</string>
+    <string name="hour">7:00 AM</string>
+    <string name="ic_plus">+</string>
+    <string name="txt_num_alarm">3</string>
+    <string name="float_button">Button Add</string>
+</resources>
